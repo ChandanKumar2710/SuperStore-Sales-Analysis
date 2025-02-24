@@ -17,4 +17,4 @@ SQL Techniques Used
 🔹 Date Functions – YEAR(), FORMAT(), DATEADD()
 
 Tools & Technologies
-🛠 SQL Server | PostgreSQL | MySQL
+🛠 SQL Server | PostgreSQL | MySQL | Power BI | Ms Excel
